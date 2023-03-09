@@ -1,6 +1,6 @@
 ### Hi there! My name is Katherin Garcia, Im a Software Engineer. Looking forward to showcasing more projects to come!!
 
-![This is an image](https://media.tenor.com/a7L5RoMg88IAAAAC/cat-typing.gif)
+![This is an image](https://i.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.webp)
 
 
 ## You can find me on:
