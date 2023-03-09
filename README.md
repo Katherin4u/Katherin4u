@@ -4,8 +4,8 @@
 
 
 ## You can find me on:
-<a href="[URL_REDIRECT](https://www.linkedin.com/in/katherin-garcia-9845a8194/)" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" height="40" /></a>
-<a href="[[URL_REDIRECT](https://www.linkedin.com/in/katherin-garcia-9845a8194/)](https://angel.co/u/katherin-garcia)" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3308/3308395.png" height="40" /></a>
+<a href="https://www.linkedin.com/in/katherin-garcia-9845a8194/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" height="40" /></a>
+<a href="https://angel.co/u/katherin-garcia" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3308/3308395.png" height="40" /></a>
 
 ## My stats:
 
