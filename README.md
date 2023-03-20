@@ -1,6 +1,8 @@
 ### Hi there! My name is Katherin Garcia, Im a Software Engineer. Looking forward to showcasing more projects to come!!
 
-![This is an image](https://i.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.webp)
+<p align="center">
+  <img src="https://i.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.webp" alt="Sublime's custom image"/>
+</p>
 
 
 ## You can find me on:
