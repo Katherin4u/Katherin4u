@@ -1,5 +1,5 @@
 
-### Hi there! My name is Katherin Garcia, Im a Software Engineer. Looking forward to showcasing more projects to come!!
+### Hi there! My name is Katherin Garcia, Im a Software Engineer. I Looking forward to showcasing more projects to come!!
 
 <p align="center">
   <img src="https://i.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.webp" alt="Sublime's custom image"/>
