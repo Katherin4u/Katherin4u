@@ -1,5 +1,5 @@
 
-Hello there! I'm Katherin Garcia, a passionate Software Engineer on a journey to create remarkable solutions. With a knack for problem-solving and a love for innovation, I'm dedicated to crafting meaningful projects that make an impact. Stay tuned for more exciting ventures on the horizon!
+Hello! I'm Katherin Garcia, a passionate Software Engineer on a journey to create remarkable solutions. With a knack for problem-solving and a love for innovation, I'm dedicated to crafting meaningful projects that make an impact. Stay tuned for more exciting ventures on the horizon!
 
 <p align="center">
   <img src="https://i.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.webp" alt="Sublime's custom image"/>
